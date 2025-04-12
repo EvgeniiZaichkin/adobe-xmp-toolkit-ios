@@ -16,13 +16,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "XMPCore",
-            url: "https://github.com/EvgeniiZaichkin/adobe-xmp-toolkit-ios/releases/download/1.0.13/XMPCore.xcframework.zip",
-            checksum: "abf1bd7ab52535ffccf264c8d10b661b76ece86c2e79b15bd83cc1082e427891"
+            url: "https://github.com/EvgeniiZaichkin/adobe-xmp-toolkit-ios/releases/download/1.0.14/XMPCore.xcframework.zip",
+            checksum: "c56bb87b39a036dd81dd2fbe0a85eb49cfe3a23cc1d0b13eee696af0528c4dc3"
         ),
         .binaryTarget(
             name: "XMPFiles",
-            url: "https://github.com/EvgeniiZaichkin/adobe-xmp-toolkit-ios/releases/download/1.0.13/XMPFiles.xcframework.zip",
-            checksum: "a726046dca50dcf63fe6c46c728655d85a8b14e7d5d3f89aa464f1b66c1ecfa8"
+            url: "https://github.com/EvgeniiZaichkin/adobe-xmp-toolkit-ios/releases/download/1.0.14/XMPFiles.xcframework.zip",
+            checksum: "a526901bb00256591ebbcdde645961e9fe4697748980a66e1ff454ad54029ce8"
         )
     ]
 )
